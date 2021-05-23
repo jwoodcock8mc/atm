@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e83696c3-1c69-41b7-ae8f-2b290b3d6bde" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/atm-cli-wjth-tests" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -247,7 +247,7 @@
       <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-9" />
     <option name="y" value="-9" />
     <option name="width" value="861" />
@@ -344,7 +344,7 @@
       <updated>1621518866444</updated>
       <workItem from="1621518867675" duration="3771000" />
       <workItem from="1621593541363" duration="37755000" />
-      <workItem from="1621759563951" duration="4983000" />
+      <workItem from="1621759563951" duration="5010000" />
     </task>
     <servers />
   </component>
@@ -381,11 +381,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46509000" />
+    <option name="totallyTimeSpent" value="46536000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2048583" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
