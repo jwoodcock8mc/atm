@@ -1,12 +1,12 @@
-###Task 1
+### Task 1
 
 The poster location is :
 
 `/app/public/task-1/task-1.html`
 
-###Task 2
+### Task 2
 
-######Running the application
+###### Running the application
 
 The ATM CLI application can be run with this command :
 
@@ -18,7 +18,7 @@ The command takes a .json file as input from the /storage/json folder, so
 
 will run the command with the file `/storage/json/test-meets-spec.json`
 
-######Testing the application
+###### Testing the application
 
 To test the application using phpunit, run the following command :
 
@@ -39,7 +39,7 @@ An attempt to take more money than in available in the ATM results in "ATM_ERR".
 
 An attempt to use the ATM with the wrong PIN number results in "ACCOUNT_ERR".
 
-###Task 3
+### Task 3
 
 User Stories can be found in /jira/userStories.md
 
